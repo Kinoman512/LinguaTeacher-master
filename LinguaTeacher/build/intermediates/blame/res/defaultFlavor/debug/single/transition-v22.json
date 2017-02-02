@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\debug\\transition-v22\\lb_browse_return_transition.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.1.1\\res\\transition-v22\\lb_browse_return_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\debug\\transition-v22\\lb_browse_entrance_transition.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.1.1\\res\\transition-v22\\lb_browse_entrance_transition.xml"
+    }
+]

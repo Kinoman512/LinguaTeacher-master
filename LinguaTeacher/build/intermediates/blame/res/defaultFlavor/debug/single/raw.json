@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\debug\\raw\\lb_voice_no_input.ogg",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.1.1\\res\\raw\\lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\debug\\raw\\lb_voice_failure.ogg",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.1.1\\res\\raw\\lb_voice_failure.ogg"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\debug\\raw\\lb_voice_open.ogg",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.1.1\\res\\raw\\lb_voice_open.ogg"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\debug\\raw\\lb_voice_success.ogg",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.1.1\\res\\raw\\lb_voice_success.ogg"
+    }
+]

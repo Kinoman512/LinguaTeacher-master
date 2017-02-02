@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LinguaTeacher/LinguaTeacher.iml" filepath="$PROJECT_DIR$/LinguaTeacher/LinguaTeacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinguaTeacher-master.iml" filepath="$PROJECT_DIR$/LinguaTeacher-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/axmlrpc/axmlrpc.iml" filepath="$PROJECT_DIR$/axmlrpc/axmlrpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlelibrary/googlelibrary.iml" filepath="$PROJECT_DIR$/googlelibrary/googlelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlelibrary-noop/googlelibrary-noop.iml" filepath="$PROJECT_DIR$/googlelibrary-noop/googlelibrary-noop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linglibrary-core/linglibrary-core.iml" filepath="$PROJECT_DIR$/linglibrary-core/linglibrary-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testapp/testapp.iml" filepath="$PROJECT_DIR$/testapp/testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videolib/videolib.iml" filepath="$PROJECT_DIR$/videolib/videolib.iml" />
+    </modules>
+  </component>
+</project>

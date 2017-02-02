@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\debug\\layout-v17\\preference_information_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\23.1.1\\res\\layout-v17\\preference_information_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\debug\\layout-v17\\preference_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\23.1.1\\res\\layout-v17\\preference_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\debug\\layout-v17\\preference_category_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher-master\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\23.1.1\\res\\layout-v17\\preference_category_material.xml"
+    }
+]

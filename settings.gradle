@@ -1,0 +1,2 @@
+include ':LinguaTeacher', ':testapp', ':googlelibrary', ':googlelibrary-noop', ':linglibrary-core', ':api', ':axmlrpc', ':videolib'
+

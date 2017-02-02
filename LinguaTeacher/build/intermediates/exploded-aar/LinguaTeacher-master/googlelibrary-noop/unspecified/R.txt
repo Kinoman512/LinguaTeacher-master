@@ -1,0 +1,6 @@
+int attr adSize 0x7f010000
+int attr adUnitId 0x7f010001
+int string app_name 0x7f020000
+int[] styleable AdView { 0x7f010000, 0x7f010001 }
+int styleable AdView_adSize 0
+int styleable AdView_adUnitId 1

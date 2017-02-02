@@ -1,0 +1,427 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:2:1-199:12
+	package
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:4:5-18
+		INJECTED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:7:5-37
+		INJECTED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:6:5-31
+		INJECTED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:5:5-35
+uses-sdk
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:cardview-v7:23.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:preference-v7:23.1.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\preference-v7\23.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:percent:23.1.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\percent\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Plumillon:ChipView:1.2.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.github.Plumillon\ChipView\1.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:community-material-typeface:1.5.54.2] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.mikepenz\community-material-typeface\1.5.54.2\AndroidManifest.xml:24:5-26:41
+MERGED from [com.mikepenz:materialdrawer:5.0.3] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\5.0.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:0.8.2] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.mikepenz\materialize\0.8.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.5.7] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.5.7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:23.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\design\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.mikepenz:fastadapter:1.1.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.mikepenz\fastadapter\1.1.0\AndroidManifest.xml:8:5-10:41
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\cn.pedant.sweetalert\library\1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.makeramen:roundedimageview:2.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.makeramen\roundedimageview\2.2.1\AndroidManifest.xml:7:5-43
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.mikepenz:material-design-iconic-typeface:2.2.0.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.mikepenz\material-design-iconic-typeface\2.2.0.1\AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:google-material-typeface:2.2.0.1.original] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.mikepenz\google-material-typeface\2.2.0.1.original\AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:fontawesome-typeface:4.5.0.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.mikepenz\fontawesome-typeface\4.5.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [LinguaTeacher-master:api:unspecified] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\LinguaTeacher-master\api\unspecified\AndroidManifest.xml:29:5-44
+MERGED from [LinguaTeacher-master:linglibrary-core:unspecified] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\LinguaTeacher-master\linglibrary-core\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.databinding:adapters:1.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\AndroidManifest.xml:22:5-24:41
+MERGED from [LinguaTeacher-master:googlelibrary-noop:unspecified] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\LinguaTeacher-master\googlelibrary-noop\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [LinguaTeacher-master:videolib:unspecified] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\LinguaTeacher-master\videolib\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [de.mrmaffen:vlc-android-sdk:2.0.6] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\de.mrmaffen\vlc-android-sdk\2.0.6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:10:9-35
+		INJECTED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:18:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:20:5-73
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:20:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:23:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:24:5-74
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:24:22-71
+application
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:26:5-197:19
+MERGED from [com.android.support:cardview-v7:23.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:preference-v7:23.1.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\preference-v7\23.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:percent:23.1.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\percent\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.Plumillon:ChipView:1.2.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.github.Plumillon\ChipView\1.2.0\AndroidManifest.xml:11:5-14:19
+MERGED from [com.mikepenz:community-material-typeface:1.5.54.2] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.mikepenz\community-material-typeface\1.5.54.2\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:design:23.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\design\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\cn.pedant.sweetalert\library\1.3\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\AndroidManifest.xml:12:5-20
+MERGED from [com.mikepenz:material-design-iconic-typeface:2.2.0.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.mikepenz\material-design-iconic-typeface\2.2.0.1\AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:google-material-typeface:2.2.0.1.original] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.mikepenz\google-material-typeface\2.2.0.1.original\AndroidManifest.xml:27:5-20
+MERGED from [LinguaTeacher-master:api:unspecified] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\LinguaTeacher-master\api\unspecified\AndroidManifest.xml:31:5-36:19
+MERGED from [LinguaTeacher-master:linglibrary-core:unspecified] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\LinguaTeacher-master\linglibrary-core\unspecified\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [LinguaTeacher-master:googlelibrary-noop:unspecified] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\LinguaTeacher-master\googlelibrary-noop\unspecified\AndroidManifest.xml:11:5-15:19
+MERGED from [LinguaTeacher-master:videolib:unspecified] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\LinguaTeacher-master\videolib\unspecified\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:36:9-41
+		REJECTED from [com.github.Plumillon:ChipView:1.2.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.github.Plumillon\ChipView\1.2.0\AndroidManifest.xml:13:9-41
+		REJECTED from [com.pnikosis:materialish-progress:1.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\AndroidManifest.xml:14:9-41
+		REJECTED from [LinguaTeacher-master:api:unspecified] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\LinguaTeacher-master\api\unspecified\AndroidManifest.xml:33:9-41
+		REJECTED from [LinguaTeacher-master:linglibrary-core:unspecified] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\LinguaTeacher-master\linglibrary-core\unspecified\AndroidManifest.xml:13:9-41
+		REJECTED from [LinguaTeacher-master:googlelibrary-noop:unspecified] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\LinguaTeacher-master\googlelibrary-noop\unspecified\AndroidManifest.xml:13:9-41
+		REJECTED from [LinguaTeacher-master:videolib:unspecified] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\LinguaTeacher-master\videolib\unspecified\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:37:9-35
+	android:hardwareAccelerated
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:30:9-44
+	android:allowBackup
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:33:9-35
+	android:icon
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:35:9-42
+		REJECTED from [com.pnikosis:materialish-progress:1.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:29:9-40
+	android:logo
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:31:9-43
+	tools:replace
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:34:9-53
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:28:9-43
+meta-data#AA_DB_NAME
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:39:9-78
+	android:value
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:39:46-75
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:39:20-45
+meta-data#AA_DB_VERSION
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:40:9-69
+	android:value
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:40:49-66
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:40:20-48
+activity#org.ling.MainActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:41:9-48:20
+	android:windowSoftInputMode
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:41:54-95
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:41:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:46:27-74
+activity#org.ling.ExtraActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:49:9-56
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:49:19-53
+service#org.ling.service.PlayAudioCardsService
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:52:9-54:39
+	android:exported
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:53:13-63
+meta-data#com.samsung.android.sdk.multiwindow.enable
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:62:9-101
+	android:value
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:62:78-98
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:62:20-77
+meta-data#com.lge.support.SPLIT_WINDOW
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:64:9-87
+	android:value
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:64:64-84
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:64:20-63
+activity#org.videolan.vlc.gui.MainActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:66:9-76:20
+	android:label
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:69:13-45
+	android:launchMode
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:70:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:71:13-52
+	android:icon
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:68:13-42
+	android:theme
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:72:13-45
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:67:13-58
+meta-data#android.app.searchable
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:73:13-74:54
+	android:resource
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:74:17-51
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:73:24-61
+activity#org.videolan.vlc.gui.SecondaryActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:77:9-80:47
+	android:windowSoftInputMode
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:79:13-52
+	android:theme
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:80:13-45
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:78:13-63
+activity#org.videolan.vlc.gui.browser.FilePickerActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:81:9-83:60
+	android:theme
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:83:13-58
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:82:13-72
+activity#org.videolan.vlc.gui.CompatErrorActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:84:9-74
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:84:19-71
+activity#org.videolan.vlc.gui.preferences.PreferencesActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:85:9-86:48
+	android:theme
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:86:13-45
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:85:19-83
+activity#org.videolan.vlc.gui.NativeCrashActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:91:9-95:48
+	android:process
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:93:13-51
+	android:stateNotNeeded
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:94:13-42
+	android:theme
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:95:13-45
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:92:13-65
+activity#org.videolan.vlc.gui.video.VideoPlayerActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:96:9-101:55
+	android:launchMode
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:100:13-43
+	android:exported
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:99:13-36
+	android:configChanges
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:98:13-59
+	android:theme
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:101:13-52
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:97:13-71
+activity#org.videolan.vlc.gui.DialogActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:103:9-106:15
+	android:configChanges
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:105:13-59
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:104:13-60
+service#org.videolan.vlc.extensions.ExtensionManagerService
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:108:9-84
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:108:18-81
+service#org.videolan.vlc.PlaybackService
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:109:9-65
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:109:18-62
+receiver#org.videolan.vlc.widget.VLCAppWidgetProviderWhite
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:110:9-125:20
+	android:label
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:113:13-50
+	android:exported
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:112:13-37
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:111:13-74
+intent-filter#_PACKAGENAME_.widget.INIT+_PACKAGENAME_.widget.UPDATE+_PACKAGENAME_.widget.UPDATE_COVER+_PACKAGENAME_.widget.UPDATE_POSITION+android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:114:13-120:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:115:17-84
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:115:25-81
+action#_PACKAGENAME_.widget.INIT
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:116:17-68
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:116:25-65
+action#_PACKAGENAME_.widget.UPDATE
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:117:17-70
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:117:25-67
+action#_PACKAGENAME_.widget.UPDATE_COVER
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:118:17-76
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:118:25-73
+action#_PACKAGENAME_.widget.UPDATE_POSITION
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:119:17-79
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:119:25-76
+meta-data#android.appwidget.provider
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:122:13-124:61
+	android:resource
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:124:17-58
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:123:17-58
+receiver#org.videolan.vlc.widget.VLCAppWidgetProviderBlack
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:126:9-141:20
+	android:label
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:129:13-50
+	android:exported
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:128:13-37
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:127:13-74
+receiver#org.videolan.vlc.RemoteControlClientReceiver
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:142:9-147:20
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:142:19-75
+intent-filter#_PACKAGENAME_.remote.PlayPause+android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:143:13-146:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:144:17-77
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:144:25-74
+action#_PACKAGENAME_.remote.PlayPause
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:145:17-73
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:145:25-70
+activity#org.videolan.vlc.gui.tv.MainTvActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:150:9-154:15
+	android:label
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:152:13-45
+	android:launchMode
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:153:13-48
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:151:13-66
+activity#org.videolan.vlc.gui.tv.DetailsActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:155:9-158:15
+	android:exported
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:157:13-36
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:156:13-67
+activity#org.videolan.vlc.gui.tv.browser.VerticalGridActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:159:9-162:16
+	android:exported
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:161:13-36
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:160:13-77
+activity#org.videolan.vlc.gui.tv.SearchActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:163:9-166:14
+	android:exported
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:165:13-36
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:164:13-66
+activity#org.videolan.vlc.gui.tv.audioplayer.AudioPlayerActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:167:9-172:14
+	android:launchMode
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:170:13-44
+	android:exported
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:169:13-36
+	android:allowTaskReparenting
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:171:13-48
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:168:13-83
+activity#org.videolan.vlc.gui.tv.preferences.PreferencesActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:173:9-174:16
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:173:19-86
+activity#org.videolan.vlc.gui.tv.AboutActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:175:9-176:16
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:175:19-68
+activity#org.videolan.vlc.gui.tv.LicenceActivity
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:177:9-178:16
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:177:19-70
+service#org.videolan.vlc.RecommendationsService
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:180:9-183:19
+	android:exported
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:182:13-37
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:181:13-64
+receiver#org.videolan.vlc.BootupReceiver
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:185:9-192:20
+	android:enabled
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:187:13-35
+	android:exported
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:188:13-36
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:186:13-56
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:189:13-191:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:190:17-78
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:190:25-76
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:194:9-196:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:196:13-66
+	android:name
+		ADDED from C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\src\main\AndroidManifest.xml:195:13-58
+activity#org.videolan.vlc.extensions.api.WarningActivity
+ADDED from [LinguaTeacher-master:api:unspecified] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\LinguaTeacher-master\api\unspecified\AndroidManifest.xml:35:9-84
+	android:name
+		ADDED from [LinguaTeacher-master:api:unspecified] C:\Users\User.USER-PK\Desktop\LinguaTeacher-master\LinguaTeacher\build\intermediates\exploded-aar\LinguaTeacher-master\api\unspecified\AndroidManifest.xml:35:19-81

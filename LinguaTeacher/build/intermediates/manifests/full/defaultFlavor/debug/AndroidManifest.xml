@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.linguateacher_test"
+    android:installLocation="auto"
+    android:versionCode="9810"
+    android:versionName="0.6.0-beta" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+
+    <application
+        android:name="org.ling.MyApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/flags_ic"
+        android:label="@string/app_name"
+        android:logo="@drawable/ic_logo_w"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="AA_DB_NAME"
+            android:value="Pickrand13.db" />
+        <meta-data
+            android:name="AA_DB_VERSION"
+            android:value="2" />
+
+        <activity
+            android:name="org.ling.MainActivity"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="org.ling.ExtraActivity" />
+
+        <service
+            android:name="org.ling.service.PlayAudioCardsService"
+            android:exported="false" />
+
+        <!-- Enable VLC in Samsung multiwindow mode -->
+        <meta-data
+            android:name="com.samsung.android.sdk.multiwindow.enable"
+            android:value="true" />
+        <!-- Enable VLC in LG split window mode -->
+        <meta-data
+            android:name="com.lge.support.SPLIT_WINDOW"
+            android:value="true" />
+
+        <activity
+            android:name="org.videolan.vlc.gui.MainActivity"
+            android:icon="@drawable/icon"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme.VLC"
+            android:windowSoftInputMode="adjustPan" >
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name="org.videolan.vlc.gui.SecondaryActivity"
+            android:theme="@style/Theme.VLC"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="org.videolan.vlc.gui.browser.FilePickerActivity"
+            android:theme="@style/Theme.VLC.PickerDialog" />
+        <activity android:name="org.videolan.vlc.gui.CompatErrorActivity" />
+        <activity
+            android:name="org.videolan.vlc.gui.preferences.PreferencesActivity"
+            android:theme="@style/Theme.VLC" />
+
+        <!-- <service android:name=".videolan.vlc.DebugLogService" -->
+        <!-- android:process=":logger" /> -->
+
+        <activity
+            android:name="org.videolan.vlc.gui.NativeCrashActivity"
+            android:process=":NativeCrashActivity"
+            android:stateNotNeeded="true"
+            android:theme="@style/Theme.VLC" />
+        <activity
+            android:name="org.videolan.vlc.gui.video.VideoPlayerActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:theme="@style/Theme.VLC.Player" />
+        <activity
+            android:name="org.videolan.vlc.gui.DialogActivity"
+            android:configChanges="orientation|screenSize" />
+
+        <service android:name="org.videolan.vlc.extensions.ExtensionManagerService" />
+        <service android:name="org.videolan.vlc.PlaybackService" />
+
+        <receiver
+            android:name="org.videolan.vlc.widget.VLCAppWidgetProviderWhite"
+            android:exported="false"
+            android:label="@string/widget_name_w" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="_PACKAGENAME_.widget.INIT" />
+                <action android:name="_PACKAGENAME_.widget.UPDATE" />
+                <action android:name="_PACKAGENAME_.widget.UPDATE_COVER" />
+                <action android:name="_PACKAGENAME_.widget.UPDATE_POSITION" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_provider_w" />
+        </receiver>
+        <receiver
+            android:name="org.videolan.vlc.widget.VLCAppWidgetProviderBlack"
+            android:exported="false"
+            android:label="@string/widget_name_b" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="_PACKAGENAME_.widget.INIT" />
+                <action android:name="_PACKAGENAME_.widget.UPDATE" />
+                <action android:name="_PACKAGENAME_.widget.UPDATE_COVER" />
+                <action android:name="_PACKAGENAME_.widget.UPDATE_POSITION" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_provider_b" />
+        </receiver>
+        <receiver android:name="org.videolan.vlc.RemoteControlClientReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+                <action android:name="_PACKAGENAME_.remote.PlayPause" />
+            </intent-filter>
+        </receiver>
+
+        <!-- TV components -->
+        <activity
+            android:name="org.videolan.vlc.gui.tv.MainTvActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance" />
+        <activity
+            android:name="org.videolan.vlc.gui.tv.DetailsActivity"
+            android:exported="true" />
+        <activity
+            android:name="org.videolan.vlc.gui.tv.browser.VerticalGridActivity"
+            android:exported="true" />
+        <activity
+            android:name="org.videolan.vlc.gui.tv.SearchActivity"
+            android:exported="true" />
+        <activity
+            android:name="org.videolan.vlc.gui.tv.audioplayer.AudioPlayerActivity"
+            android:allowTaskReparenting="true"
+            android:exported="true"
+            android:launchMode="singleTask" />
+        <activity android:name="org.videolan.vlc.gui.tv.preferences.PreferencesActivity" />
+        <activity android:name="org.videolan.vlc.gui.tv.AboutActivity" />
+        <activity android:name="org.videolan.vlc.gui.tv.LicenceActivity" />
+
+        <service
+            android:name="org.videolan.vlc.RecommendationsService"
+            android:exported="false" >
+        </service>
+
+        <receiver
+            android:name="org.videolan.vlc.BootupReceiver"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name="org.videolan.vlc.extensions.api.WarningActivity" />
+    </application>
+
+</manifest>
